@@ -1,19 +1,19 @@
 {
-    "version": "3.5.0",
+    "version": "3.6.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zeshone/doc-agent-ai/releases/download/v3.5.0/doc-agent-ai_3.5.0_windows_amd64.zip",
+            "url": "https://github.com/zeshone/doc-agent-ai/releases/download/v3.6.0/doc-agent-ai_3.6.0_windows_amd64.zip",
             "bin": [
                 "doc-agent-ai.exe"
             ],
-            "hash": "032790ab4cb89e020e942c0ee0cd9453fa1e86c705b5e1aa8b334f5ba7623874"
+            "hash": "2377c22c59108ac9085dc02e17d9e8051d2e592d649506b70d0149b0b8ab9e38"
         },
         "arm64": {
-            "url": "https://github.com/zeshone/doc-agent-ai/releases/download/v3.5.0/doc-agent-ai_3.5.0_windows_arm64.zip",
+            "url": "https://github.com/zeshone/doc-agent-ai/releases/download/v3.6.0/doc-agent-ai_3.6.0_windows_arm64.zip",
             "bin": [
                 "doc-agent-ai.exe"
             ],
-            "hash": "952537aff43285fc43a4a3b85324877dcb4716728ff4baa214b8f295d7142462"
+            "hash": "56778803728038d1f931ae8037b048e9e35ed0e31a3d6bb831bfd66b3bc7f6a1"
         }
     },
     "homepage": "https://github.com/zeshone/doc-agent-ai",
